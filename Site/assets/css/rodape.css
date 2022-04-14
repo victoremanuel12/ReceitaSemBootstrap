@@ -1,0 +1,9 @@
+.rodape{
+    background-color: #bfbfbf;
+    color: #fbfbfb;
+    text-align: center;
+    padding: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}

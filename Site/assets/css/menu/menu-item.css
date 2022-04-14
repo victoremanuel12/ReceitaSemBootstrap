@@ -1,0 +1,16 @@
+
+
+.menu__item {
+    list-style: none;
+}
+
+.menu__item:last-child .menu__link {
+    margin-right: 0;
+}
+@media screen and (max-width:350px){
+    .menu__item{
+
+       margin-bottom: 3px;
+    }
+
+}
